@@ -1,1 +1,1 @@
-# CSCE240
+# CSCE240: Azariah Laulusa
