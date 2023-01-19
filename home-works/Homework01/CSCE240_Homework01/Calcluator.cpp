@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : File Calculator
+// Name        : Calculator
 // Author      : Azariah Laulusa
 // Description : A calculator that adds, multiplies, subtracts, and divides
 // two integers
