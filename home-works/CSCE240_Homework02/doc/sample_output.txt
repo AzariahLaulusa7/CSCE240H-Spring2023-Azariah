@@ -1,0 +1,5 @@
+"Not enough information to calculate"
+RECTANGLE "Not enough information to calculate"
+"Not enough information to calculate"
+EMPTY "Not enough information to calculate"
+TRIANGLE "Not enough information to calculate"
