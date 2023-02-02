@@ -1,0 +1,71 @@
+Rabies: 9 Symptoms & What Do If You Are Bitten By a Rabid Animal
+
+	* What Is Rabies? *
+		Rabies is a virus that attacks the ("https://www.webmd.com/brain/central-nervous-system") central nervous system. It’s found only in
+	 mammals.
+		Human cases of the virus are extremely rare in the United States, but if it’s
+	 not treated before symptoms appear, it’s deadly. Rabies has the highest mortality rate -- 99.9%
+	 -- of any disease on earth. The key is to get treated right away if
+	 you think you’ve been exposed to an animal that has rabies.
+
+	*How Is It Spread?*
+		Normally, rabies is spread through a deep bite or scratch from an infected animal. In
+	 the United States, rabies is mostly found in wild animals like coyotes, raccoons, skunks, bats,
+	 and foxes. Most humans infected with the virus got it from bat exposure.  The best way
+	 to avoid getting rabies is to have your pets vaccinated.
+
+	*What Are the Symptoms?*
+		Typically, there are no symptoms right away. Rabies can lay dormant in your body for
+	 1 to 3 months. Doctors call this the “incubation period.” Symptoms will appear once the
+	 virus travels through your central nervous system and hits your ("https://www.webmd.com/brain/picture-of-the-brain") brain.
+		The first sign that something is wrong is fever. You might feel generally tired or
+	 weak. You may also feel pain, tingling, or burning at the site of the wound.
+	 As the virus spreads through your central nervous system, you’ll develop other, more severe symptoms.
+	 They include:
+		In time, these symptoms give way to ("https://www.webmd.com/brain/coma-types-causes-treatments-prognosis") coma, ("https://www.webmd.com/heart/picture-of-the-heart") heart or ("https://www.webmd.com/lung/picture-of-the-lungs") lung failure,
+	 and death.
+			-Inability to ("https://www.webmd.com/sleep-disorders/default.htm") sleep (("https://www.webmd.com/sleep-disorders/insomnia-symptoms-and-causes") insomnia)
+			-("https://www.webmd.com/anxiety-panic/default.htm") Anxiety
+			-Confusion
+			-Slight or partial paralysis
+			-Hyperactivity
+			-Being easily agitated
+			-("https://www.webmd.com/schizophrenia/what-are-hallucinations") Hallucinations
+			-Salivating more than usual
+			-Difficulty swallowing
+
+	*An Animal Bit Me. What Should I Do?*
+		Wash the wound right away with soap and water. That’s the best way to lower
+	 your chances of infection.
+	See a doctor as soon as possible. They’ll treat the wound
+	 and decide whether you need a rabies vaccination. If you’ve been exposed to rabies in
+	 the past few months, they’ll likely run a number of tests (("https://www.webmd.com/oral-health/what-is-saliva") saliva, ("https://www.webmd.com/heart/anatomy-picture-of-blood") blood,
+	 spinal fluid, ("https://www.webmd.com/skin-problems-and-treatments/picture-of-the-skin") skin, and ("https://www.webmd.com/skin-problems-and-treatments/picture-of-the-hair") hair) to check for the rabies virus or ("https://www.webmd.com/baby/antibody-testing")
+	 antibodies.
+		If your doctor suspects rabies, they’ll begin treatment with the rabies ("https://www.webmd.com/vaccines/default.htm") vaccine -- postexposure
+	 prophylaxis (PEP). The ("https://www.webmd.com/children/vaccines/immunizations-vaccines-power-of-preparation") vaccine is always successful if it’s given immediately after exposure. You’ll
+	 get one dose of fast-acting rabies immune globulin, which will prevent you from getting infected
+	 by the virus. Then you’ll get four rabies vaccine shots over the next 14 days.
+		If you are ("https://www.webmd.com/baby/default.htm") pregnant, rabies shots are safe for you and your baby.
+
+	*Can You Tell If An Animal Has Rabies?*
+		You might have an image in your head of a dog or raccoon acting aggressively
+	 and foaming at the ("https://www.webmd.com/oral-health/anatomy-of-the-mouth") mouth. But it’s not so easy to tell if you’re
+	 looking at a rabid animal. Most wild animals that have rabies actually act shy or
+	 timid. That’s not the way wild animals normally act, so steer clear.
+		Here are some common-sense rules for dealing with stray or wild animals:
+			-Never pet a stray dog or cat.
+			-If you see an animal acting strangely (it’s aggressive or tries to bite you), call your local animal control.
+			-Never touch a wild animal -- even if it looks dead.
+
+---Input File Statistics---
+	Total Input Lines = 153
+	Total Input Words = 8058
+	Total Input Characters (not including spaces) = 281257
+	Total Input Characters (including spaces) = 289666
+
+---Output File Statistics---
+	Total Output Lines = 59
+	Total Input Words = 528
+	Total Output Characters (not including spaces) = 3636
+	Total Input Characters (including spaces) = 4164
