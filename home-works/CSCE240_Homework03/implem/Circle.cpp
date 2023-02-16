@@ -54,6 +54,6 @@ void Circle::setParameter(double rad) {
 // new error message for circle
 void Circle::setErrorMessage() {
 
-	errorMessage = "CIRCLE \"Not Enough Information\"";
+	errorMessage = "CIRCLE \"Not Enough Information\"\n";
 
 }

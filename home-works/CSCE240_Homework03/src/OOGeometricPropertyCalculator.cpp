@@ -38,7 +38,7 @@ void readWriteFile(string in_file_name) {
     }
 
     // Line and output variables
-	string out_file_name = "data/output.txt";
+	string out_file_name = "test/sample_output.txt";
 	string line;
 
     // Start reading and writing file
@@ -414,7 +414,7 @@ void readWriteFile(string in_file_name) {
                         << "between the shape "
                         << "and their dimensions.\n\nEx:\n\tCIRCLE <radius-in-cm>\n"
                         << endl;
-                    out_myfile << "CIRCLE \"Not enough information to calculate\"\n";
+                    out_myfile << "\"Not enough information to calculate\"\n";
                     continue;
                 }
 

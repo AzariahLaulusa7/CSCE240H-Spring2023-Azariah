@@ -1,5 +1,5 @@
-CIRCLE "Not enough information to calculate"
-CIRCLE "Not enough information to calculate"
+"Not enough information to calculate"
+"Not enough information to calculate"
 "Not enough information to calculate"
 EMPTY "Not enough information to calculate"
-CIRCLE "Not enough information to calculate"
+"Not enough information to calculate"

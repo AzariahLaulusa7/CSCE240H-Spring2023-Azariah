@@ -14,7 +14,7 @@ Shape::Shape() {
     // default variables for shape
 	area = 0.0;
     parameter = 0.0;
-    errorMessage = "\"Not enough information\"";
+    errorMessage = "\"Not enough information\"\n";
 
 }
 

@@ -75,6 +75,6 @@ void Triangle::setParameter(double s1, double s2, double s3) {
 
 void Triangle::setErrorMessage() {
 
-	errorMessage = "TRIANGLE \"Not Enough Information\"";
+	errorMessage = "TRIANGLE \"Not Enough Information\"\n";
 
 }

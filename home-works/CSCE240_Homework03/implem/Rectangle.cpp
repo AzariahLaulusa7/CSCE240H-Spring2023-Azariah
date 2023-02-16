@@ -73,6 +73,6 @@ void Rectangle::setParameter(double length, double width) {
 // create new error message for rectangle
 void Rectangle::setErrorMessage() {
 
-	errorMessage = "Rectangle \"Not Enough Information\"";
+	errorMessage = "Rectangle \"Not Enough Information\"\n";
 
 }
