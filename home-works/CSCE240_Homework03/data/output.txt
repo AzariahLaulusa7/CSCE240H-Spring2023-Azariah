@@ -1,6 +1,6 @@
 CIRCLE AREA <12.5664>
 EMPTY "Not enough information to calculate"
-TRIANGLE PARAMETER <5>
-RECTANGLE PARAMETER <0>
+TRIANGLE PARAMETER <12>
+RECTANGLE PARAMETER <12>
 CIRCLE "Not Enough Information"
 "Not enough information to calculate"
