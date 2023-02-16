@@ -1,0 +1,4 @@
+CIRCLE <2>
+
+TRIANGLE <3><4><5>
+RECTANGLE <2><4>

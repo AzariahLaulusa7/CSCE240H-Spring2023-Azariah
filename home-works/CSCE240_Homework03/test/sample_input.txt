@@ -1,0 +1,5 @@
+    SQUARE <20>
+    RECTANGLE <3n2mek>
+    CIRCLE <><<>
+
+    TRIANGLE < >
