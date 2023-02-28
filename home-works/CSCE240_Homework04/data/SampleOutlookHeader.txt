@@ -1,0 +1,122 @@
+Received: from IA1PR19MB6473.namprd19.prod.outlook.com (2603:10b6:208:3af::9)
+ by BYAPR19MB2822.namprd19.prod.outlook.com with HTTPS; Tue, 21 Feb 2023
+ 22:37:35 +0000
+Received: from SN7PR04CA0153.namprd04.prod.outlook.com (2603:10b6:806:125::8)
+ by IA1PR19MB6473.namprd19.prod.outlook.com (2603:10b6:208:3af::9) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6002.12; Tue, 21 Feb
+ 2023 22:37:33 +0000
+Received: from SN1NAM02FT0037.eop-nam02.prod.protection.outlook.com
+ (2603:10b6:806:125:cafe::56) by SN7PR04CA0153.outlook.office365.com
+ (2603:10b6:806:125::8) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6111.20 via Frontend
+ Transport; Tue, 21 Feb 2023 22:37:33 +0000
+Authentication-Results: spf=pass (sender IP is 69.196.241.11)
+ smtp.mailfrom=blackboard.com; dkim=pass (signature was verified)
+ header.d=blackboard.com;dmarc=pass action=none
+ header.from=blackboard.com;compauth=pass reason=100
+Received-SPF: Pass (protection.outlook.com: domain of blackboard.com
+ designates 69.196.241.11 as permitted sender)
+ receiver=protection.outlook.com; client-ip=69.196.241.11;
+ helo=mail-relay11-va2.blackboard.com; pr=C
+Received: from mail-relay11-va2.blackboard.com (69.196.241.11) by
+ SN1NAM02FT0037.mail.protection.outlook.com (10.97.4.243) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.6134.17 via Frontend Transport; Tue, 21 Feb 2023 22:37:33 +0000
+Received: from ip-10-146-254-32.ec2.internal (ec2-35-168-199-206.compute-1.amazonaws.com [35.168.199.206])
+	by mail-relay11-va2.blackboard.com (Sentrion-MTA-4.5.7/Sentrion-MTA-4.5.7) with ESMTP id 31LMbKf7032242;
+	Tue, 21 Feb 2023 22:37:31 GMT
+DKIM-Filter: OpenDKIM Filter v2.10.3 mail-relay11-va2.blackboard.com 31LMbKf7032242
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=blackboard.com;
+	s=sep2018; t=1677019053;
+	bh=MQceFXIev6jPi8/VJwP5qVF10kF/9Lkd/lkkLsgE4tQ=;
+	h=Date:From:Reply-To:Subject;
+	b=KRchxZBYsXwSUEC+PO6nlAvQlz5D6XEEZEYQIT5LM2BM2ypZJp1RDlCW+VXdeWuF1
+	 jt5SPCn+dJbxlMUjYBNZJB393i0+msTSI/qAkIpa6nuiraOoHLqO7yU48+2Uwv74qP
+	 YXuiO2NAeeKDXulTXfZdZbrdc6JuNDgkw9ScQg7q3cq5PQIcOSRnOP8phKsU16FFN3
+	 Vaup9grTxBztekrBs9aDVTEbIPKpv8ZSuMNfCaIqln3OoBMrtRtFRN8Vnt8m0swl1N
+	 /isM1+6hOqmZCPHlHGPxpAvowtnxVEzdo1VvBk0ky0d9W1Ow6IaLOkmAgboKf22oVd
+	 0OnJrMLCe2XSQ==
+Date: Tue, 21 Feb 2023 17:37:31 -0500 (EST)
+From: "JOSHUA NATHAN Cooper - cooper@math.sc.edu"
+ <do-not-reply@blackboard.com>
+Reply-To: "JOSHUA NATHAN Cooper - cooper@math.sc.edu" <cooper@math.sc.edu>
+Message-ID: <323438610.1095.1677019053023@ip-10-146-254-32.ec2.internal>
+Subject: Discrete Structures (MATH374-002-SPRING-2023): homework 6
+ reschedule
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1093_838276569.1677019051747"
+To: Undisclosed recipients:;
+Return-Path: do-not-reply@blackboard.com
+X-MS-Exchange-Organization-ExpirationStartTime: 21 Feb 2023 22:37:33.5734
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id:
+ 249c386c-4c11-4f75-36b9-08db145c3968
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 4b2a4b19-d135-420e-8bb2-b1cd238998cc:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: SN1NAM02FT0037:EE_|IA1PR19MB6473:EE_
+X-MS-Exchange-Organization-AuthSource:
+ SN1NAM02FT0037.eop-nam02.prod.protection.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id: 249c386c-4c11-4f75-36b9-08db145c3968
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Organization-BypassFocusedInbox: true
+X-MS-Exchange-Organization-BypassClutter: true
+X-Microsoft-Antispam: BCL:4;
+X-Forefront-Antispam-Report:
+ CIP:69.196.241.11;CTRY:US;LANG:en;SCL:-1;SRV:;IPV:CAL;SFV:SKN;H:mail-relay11-va2.blackboard.com;PTR:mail-relay11-va2.blackboard.com;CAT:NONE;SFS:;DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 21 Feb 2023 22:37:33.4328
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 249c386c-4c11-4f75-36b9-08db145c3968
+X-MS-Exchange-CrossTenant-Id: 4b2a4b19-d135-420e-8bb2-b1cd238998cc
+X-MS-Exchange-CrossTenant-AuthSource:
+ SN1NAM02FT0037.eop-nam02.prod.protection.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: IA1PR19MB6473
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.9144705
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.6086.024
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097);
+X-Microsoft-Antispam-Message-Info:
+	=?us-ascii?Q?OqU3lH/ySz+wLGU4ILgvn3y5nlsBebdvSvL/+XSfkGK412qPr7UM10LqNltj?=
+ =?us-ascii?Q?3drkMylv1pNbkOOrqEyM1RAwlVhEN8vXd8lTAKXUAaVFucfgPJW+K+wdRr4r?=
+ =?us-ascii?Q?W2SpUTQpQFLavLgO07ny2jDySSIBsqkmp0V6mFmvjWmt99+5nb4sjC4Bg1nu?=
+ =?us-ascii?Q?gQWrv90QxYkzTRRj9g79JgSiZ7Blb0b1cOK2reFzoO5kF/4OFmyI3gjXwIeP?=
+ =?us-ascii?Q?kKaqIbvNBerqIMyKpV8hmWT1BlTf63kO+OazVw76AhB456QhDu1ROZGRWJnG?=
+ =?us-ascii?Q?7iwbuC6iQE3iEGQQB557pTK6FeikDzBt9Wph6DuuNxpca5DBqjKyshRlqWPc?=
+ =?us-ascii?Q?qWoYGDLEULxeyR4Mw2YrgSkmHib3Iph8GRYhHG3qUWqKGgXgBaWR7BYQFPnL?=
+ =?us-ascii?Q?TPAzBuEtCtho8AxtJh/qgXWBwDMhnr0fhOvve3i2n/mIcGOdfFxg0iqp7ex1?=
+ =?us-ascii?Q?lNUFed7sVG8yyraN1iVxjybBQiqE6LMxDJRxHsWN1ZyKa+iNVhaMzFaXaxZ0?=
+ =?us-ascii?Q?hxcSQmTnrHKJ8MGnYfSfusoX0mltIriRmkf7LA2i07m2B7BJEqF2Xu5E1zFa?=
+ =?us-ascii?Q?NZrVRK7Vaj1PRka/dIaM1L3XvU+reo9vF9Igzb4SCJRIS+nR/5OdNGofIK2h?=
+ =?us-ascii?Q?UB3cpm4lkxqDekhqaKR2WZXWIZYMvW18Ahlw+jcP8q2k4EJsX85i6wlD3Ps1?=
+ =?us-ascii?Q?pjt8nQVEh5gTQgUMxqIeEz4KO4agXPDWWP/pI6biRWh5D2ybkT0XvstJR4UA?=
+ =?us-ascii?Q?HOI19hgppPkANDuyQoJZpsuKKjw2WDMnVfOvvZXC5yrTSboGXVwJXxwx4sqd?=
+ =?us-ascii?Q?eHdA5d70yJBhkorJrasIS5Z50TOUms4ErxmmGWqomUHC742sgDWoK5gLnVhG?=
+ =?us-ascii?Q?N4mSXBvxuB2i5b6vlszxUd0UOhTshiXf8CRH2Wq+iM2S2H4cUPHnSVnO/qUA?=
+ =?us-ascii?Q?7RSk06/ONbmQco6rW+qYcSUMOrb/1rbNjfhmHU7zhmHPkQx+4+87jvV3Jzlx?=
+ =?us-ascii?Q?DAtjSVumVDSEODkZftmvslAlhJ+8IdOjdkUCtjxl6DA6phmB1RVVDxzCJCw2?=
+ =?us-ascii?Q?KuYrJjyXFoI2H2Yr+EVZ8lxXz1WZPO1AHmqk8k8suu72700PIMfDmYg63jau?=
+ =?us-ascii?Q?svWDXpfSAgVwJyd6PaU1Z6n2CfxrS753T57cLYJPDssVeQXZhsbtlaMrQo1q?=
+ =?us-ascii?Q?3QSXc1yVLiX5lwkTNp3TqGFtFnY6PssZhYYHAclm32Hgn/8UIN2TEyRjoivb?=
+ =?us-ascii?Q?6lVH7l6U9NxC8H9YUG4/3B738zjQbt8u0R7d5XQ9Xjlob7aEAQ3rBbbwFzMX?=
+ =?us-ascii?Q?ozi2MF3JJY5UWo5Gt84l+EUcppGU6QTakl2o8D6gYnYqQ11cN7jpn4rwwNml?=
+ =?us-ascii?Q?uPUQ+PfVXwNvgoCVhQ8SMWWACb+eQFHPWUjWS9j0OJFgRoIlqU+5gZjvEFvv?=
+ =?us-ascii?Q?VIOm8UiiUxZIioZ/NFh0zqKgq2gD8+bmKnOhvWMAYZ8CHn5PIoY5eezw9FHf?=
+ =?us-ascii?Q?anzSyXXNZDWmKlltBMFor99C8wbcYaVua3UZ/dFFJY+iVACHac1IQzn2UXH/?=
+ =?us-ascii?Q?5LkY50IP/t7QaVzbLdaARukNigbnpxNnbfR7LzMd/8uaH4P85oiZR6t8ePyB?=
+ =?us-ascii?Q?6EaSgWnL+J7KLgxTE020yBNBK2m2PgTyvQv8Lv566AmJhVBMMZD6lixIt68h?=
+ =?us-ascii?Q?ehRiXOn12tvn68v/cQWBDvyV843DEODLe/G+RxHFQuUmjF0l5sGPNCTffW8X?=
+ =?us-ascii?Q?IZ1fMP10470UJiP3mDu9onnuHFD1QFnPyfVduBol0WXichGqjWyZhmOoSZdI?=
+ =?us-ascii?Q?8n9UVwQW0Kia4n1aYlhYiYUw2i/5XXFnPITiha3aLOiyJ3hT5lNeWyZZDV97?=
+ =?us-ascii?Q?HzulwL1emQZOZpluL+NCxFH9Apv8qoaDiGceDlCHyRRvTd9ZxqkE13x3QuMt?=
+ =?us-ascii?Q?TMEYJ/RrfcqNJ/rMcOIf1iIpHYUBY2UCSILdWEdyy3tc0SONsO1vn2LC3Hst?=
+ =?us-ascii?Q?l136jmRRKzExMOuy9I8FkG5A8Q=3D=3D?=
